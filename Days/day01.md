@@ -1,13 +1,4 @@
----
-title: '#90DaysOfDevOps - Introduction - Day 1'
-published: true
-description: 90DaysOfDevOps - Introduction
-tags: 'devops, 90daysofdevops, learning'
-cover_image: null
-canonical_url: null
-id: 1048731
-date: '2022-04-17T10:12:40Z'
----
+Completed - 18 Sep
 
 ## Introduction - Day 1
 
@@ -57,8 +48,11 @@ I am always open to adding additional resources to these readme files as it is h
 
 My advice is to watch all of the below and hopefully you have also picked something up from the text and explanations above.
 
-- [DevOps in 5 Minutes](https://www.youtube.com/watch?v=Xrgk023l4lI)
-- [What is DevOps? Easy Way](https://www.youtube.com/watch?v=_Gpe1Zn-1fE&t=43s)
 - [DevOps roadmap 2022 | Success Roadmap 2022](https://www.youtube.com/watch?v=7l_n97Mt0ko)
+- [DevOps Prerequisites](https://www.youtube.com/watch?v=Wvf0mBNGjXY&ab_channel=freeCodeCamp.org)
+- [Docker Deepdive](https://www.youtube.com/watch?v=GwXLNAcHk-k&ab_channel=SaiyamPathak)
+- [Intro to YAML](https://www.youtube.com/watch?v=1uFVr15xDGg&ab_channel=TechWorldwithNana)
+- [Articles on Docker](https://iximiuz.com/en/categories/?category=Containers)
+- [Kube Academy](https://kube.academy/)
 
 If you made it this far, then you will know if this is where you want to be or not. See you on [Day 2](day02.md).
