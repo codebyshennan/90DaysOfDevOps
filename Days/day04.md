@@ -1,12 +1,4 @@
----
-title: '#90DaysOfDevOps - DevOps & Agile - Day 4'
-published: false
-description: 90DaysOfDevOps - DevOps & Agile
-tags: 'devops, 90daysofdevops, learning'
-cover_image: null
-canonical_url: null
-id: 1048700
----
+Completed: 18 Sep
 
 ## DevOps & Agile
 
