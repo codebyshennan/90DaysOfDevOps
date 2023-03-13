@@ -69,8 +69,7 @@ The combination of Agile and DevOps brings the following benefits you will get:
 - It leads to strengthening: the team adopting agile practices will improve collaboration, increase the team's motivation and decrease employee turnover rates.
 - As a result, you get better product quality.
 
-Agile allows coming back to previous product development stages to fix errors and prevent the accumulation of technical debt. To adopt agile and DevOps
-simultaneously just follow 7 steps:
+Agile allows coming back to previous product development stages to fix errors and prevent the accumulation of technical debt. To adopt agile and DevOps simultaneously just follow 7 steps:
 
 1. Unite the development and operation teams.
 2. Create build and run teams, all development and operational concerns are discussed by the entire DevOps team.
