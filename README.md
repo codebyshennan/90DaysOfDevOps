@@ -4,31 +4,30 @@
  <img src="logo.png?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
 </p>
 
-
-This repository is used to document my journey on getting a better foundational knowledge of "DevOps".  The reason for documenting these days is so that others can take something from it and also hopefully enhance the resources.
+This repository is used to document my journey on getting a better foundational knowledge of "DevOps". The reason for documenting these days is so that others can take something from it and also hopefully enhance the resources.
 
 The goal is to take 30 days, 1 hour each a day, to tackle over 13 areas of "DevOps" to a foundational knowledge. This will **not cover all things** "DevOps" but it will cover the areas that I feel will benefit my learning and understanding overall.
 
 ## Progress
 
-- [ ] ♾️ 1 > [Introduction](Days/day01.md)
+- [x] ♾️ 1 > [Introduction](Days/day01.md)
 
 ### What is and why do we use DevOps
 
-- [ ] ♾️ 2 > [Responsibilities of a DevOps Engineer](Days/day02.md)
-- [ ] ♾️ 3 > [DevOps Lifecycle - Application Focused](Days/day03.md)
-- [ ] ♾️ 4 > [DevOps & Agile](Days/day04.md)
-- [ ] ♾️ 5 > [Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor >](Days/day05.md)
-- [ ] ♾️ 6 > [DevOps - The real stories](Days/day06.md)
+- [x] ♾️ 2 > [Responsibilities of a DevOps Engineer](Days/day02.md)
+- [x] ♾️ 3 > [DevOps Lifecycle - Application Focused](Days/day03.md)
+- [x] ♾️ 4 > [DevOps & Agile](Days/day04.md)
+- [x] ♾️ 5 > [Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor >](Days/day05.md)
+- [x] ♾️ 6 > [DevOps - The real stories](Days/day06.md)
 
 ### Learning a Programming Language
 
-- [ ] ⌨️ 7 > [The Big Picture: DevOps & Learning a Programming Language](Days/day07.md)
-- [ ] ⌨️ 8 > [Setting up your DevOps environment for Go & Hello World](Days/day08.md)
-- [ ] ⌨️ 9 > [Let's explain the Hello World code](Days/day09.md)
-- [ ] ⌨️ 10 > [The Go Workspace & Compiling & running code](Days/day10.md)
-- [ ] ⌨️ 11 > [Variables, Constants & Data Types](Days/day11.md)
-- [ ] ⌨️ 12 > [Getting user input with Pointers and a finished program](Days/day12.md)
+- [x] ⌨️ 7 > [The Big Picture: DevOps & Learning a Programming Language](Days/day07.md)
+- [x] ⌨️ 8 > [Setting up your DevOps environment for Go & Hello World](Days/day08.md)
+- [x] ⌨️ 9 > [Let's explain the Hello World code](Days/day09.md)
+- [x] ⌨️ 10 > [The Go Workspace & Compiling & running code](Days/day10.md)
+- [x] ⌨️ 11 > [Variables, Constants & Data Types](Days/day11.md)
+- [x] ⌨️ 12 > [Getting user input with Pointers and a finished program](Days/day12.md)
 - [ ] ⌨️ 13 > [Tweet your progress with our new App](Days/day13.md)
 
 ### Knowing Linux Basics
